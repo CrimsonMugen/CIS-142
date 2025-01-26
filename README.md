@@ -1,5 +1,5 @@
 # CIS-142
-Class Project Git Repo - EXPERIMENTAL
 
+## CIS-142 Class Project
 
-This is just a test repo for study purposes.
+This repo is to serve as an experimental coding project for Python basics.
