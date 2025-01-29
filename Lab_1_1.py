@@ -1,4 +1,6 @@
-#lab 1.1 all information in lab is made up for educational purposes
+##
+# @author Johnathan Florio
+# lab 1.1 - simple print program indexing psuedo info for lab purposes
 
 # variables
 Name1 = "John"
